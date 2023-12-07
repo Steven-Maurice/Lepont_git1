@@ -1,27 +1,10 @@
-Irina
 Steven_Maurice
-=======
-Steven_MauriceKEBAIRI Athmane
-=======
-Steven_Mauriceclem
-=======
-Steven Maurice
-Sam
-
-=======
+KEBAIRI Athmane
+clem
 SamFrançois Poinsignon 
 David
 KEBAIRI Athmane
-=======
 Thomas
-=======
 "olivier serreri" 
-<<<<<<< HEAD
-
-
-=======
-
-=======
->>>>>>> 48b201f71c8576a86e8c02e11cdd4e04d35113f5
 Arthur Pejout
->>>>>>> b087ba358f105d36c47e9fe8622d0193d5023ea0
+Irina
