@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Steven_MauriceKEBAIRI Athmane
 =======
 Steven_Mauriceclem
 >>>>>>> e20184d5fb3f3f6569a41c9337621b2d498bbe84
+=======
+Steven Maurice
+SamFrançois Poinsignon 
+David
+>>>>>>> c25b4acfdc8a4b8916bdbaa897baa6159f2fea02
+KEBAIRI Athmane
