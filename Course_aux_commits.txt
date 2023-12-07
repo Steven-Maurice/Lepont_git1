@@ -13,4 +13,8 @@ David
 KEBAIRI Athmane
 =======
 Thomas
+<<<<<<< HEAD
 >>>>>>> 24a9473d85fe5e9ea1725cf00270519db3e66cb6
+=======
+"olivier serreri" 
+>>>>>>> 48b201f71c8576a86e8c02e11cdd4e04d35113f5
